@@ -1,8 +1,8 @@
 {
-  "name": "caputira",
+  "name": "flightdocs.git",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:sallespro/caputira.git",
+  "repository": "git@github.com:sallespro/flightdocs.git",
   "author": "Rafael Rocco Salles <sallespro@gmail.com>",
   "license": "MIT",
   "scripts": {

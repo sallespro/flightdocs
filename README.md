@@ -6,11 +6,11 @@ Flightdocs é uma série documental sobre vôo livre, com web site criado para p
 
 ## source code
 
-[source code](https://github.com/sallespro/caputira)
+[source code](https://github.com/sallespro/flightdocs)
 
 ## github.io hosted
 
-The [github.io](https://sallespro.github.io/caputira/) site
+The [github.io](https://sallespro.github.io/flightdocs/) site
 
 ## Development Sandbox
 
@@ -20,7 +20,7 @@ The [github.io](https://sallespro.github.io/caputira/) site
 
 ### The Development Environment in the cloud
 
-[sandbox template](https://codesandbox.io/s/github/sallespro/caputira)
+[sandbox template](https://codesandbox.io/s/github/sallespro/flightdocs)
 
 
 ## plugins
