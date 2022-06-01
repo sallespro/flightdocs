@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .splash {
+        background: linear-gradient(rgba(2,2,2,.1),rgba(0,0,0,.1)),url( https://source.unsplash.com/oWTW-jNGl9I/600x800) center center;
+       
+    }
+    .logo {
+        background: linear-gradient(rgba(2,2,2,.1),rgba(0,0,0,.1)),url(https://drive.cloudbot.com.br/fly/flightdocs-logo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=conector%2F20220528%2F%2Fs3%2Faws4_request&X-Amz-Date=20220528T161745Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=d1b9430acda2d5fe7ed48638a05e25748ba93d2465419bcc6b8f51e9af80a444) center center;
+    
+    }
+    .login_img_section {
+        /* background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url(https://images.unsplash.com/photo-1650825556125-060e52d40bd0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80) center center; */
+        /* background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url(https://drive.cloudbot.com.br/fly/moeda-flight-selfie_HD.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=conector%2F20220525%2F%2Fs3%2Faws4_request&X-Amz-Date=20220525T231625Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=4fcae1991ec2df058780d6748788b0c3d0753bbf9ec63c9f64d15c3e34d30d93) center center; */
+        background: linear-gradient(rgba(2,2,2,.1),rgba(0,0,0,.1)),url(https://drive.cloudbot.com.br/fly/profile-tiohemer-straightlook.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=conector%2F20220531%2F%2Fs3%2Faws4_request&X-Amz-Date=20220531T123235Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=3b273070d90c4c77077d6f77ed41a5c9d539e857eee5b482f56338bc8b524cc6) center center;
+    
+    }
+    .contact_img_section {
+        /* background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url(https://images.unsplash.com/photo-1650825556125-060e52d40bd0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80) center center; */
+        /* background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url(https://drive.cloudbot.com.br/fly/moeda-flight-selfie_HD.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=conector%2F20220525%2F%2Fs3%2Faws4_request&X-Amz-Date=20220525T231625Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=4fcae1991ec2df058780d6748788b0c3d0753bbf9ec63c9f64d15c3e34d30d93) center center; */
+        background: linear-gradient(rgba(2,2,2,.1),rgba(0,0,0,.1)),url(https://drive.cloudbot.com.br/fly/gv-rafael-contact-landed_HD.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=conector%2F20220530%2F%2Fs3%2Faws4_request&X-Amz-Date=20220530T172911Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=69b60fa30f5eaf03f81711f5436994a5362751dc587f1384d017fa2d4a12e132) center center;
+    
+    }
+    .moeda_img_section {
+        /* background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url(https://images.unsplash.com/photo-1650825556125-060e52d40bd0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80) center center; */
+        background: linear-gradient(rgba(2,2,2,.1),rgba(0,0,0,.1)),url(https://drive.cloudbot.com.br/fly/moeda-flight-selfie_HD.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=conector%2F20220525%2F%2Fs3%2Faws4_request&X-Amz-Date=20220525T231625Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=4fcae1991ec2df058780d6748788b0c3d0753bbf9ec63c9f64d15c3e34d30d93) center center;
+        /* background: linear-gradient(rgba(2,2,2,.1),rgba(0,0,0,.1)),url(https://drive.cloudbot.com.br/fly/profile-tiohemer-straightlook.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=conector%2F20220526%2F%2Fs3%2Faws4_request&X-Amz-Date=20220526T022134Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=c42915392d115ddf2f1dc4ae3a784991de0081c2680b5c537b2e3d9e6faa5857) center center; */
+    
+    }
+    .celular_img_section {
+        background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url(https://images.unsplash.com/photo-1650825556125-060e52d40bd0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80) center center;
+        /* background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url(https://drive.cloudbot.com.br/fly/moeda-flight-selfie_HD.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=conector%2F20220525%2F%2Fs3%2Faws4_request&X-Amz-Date=20220525T231625Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=4fcae1991ec2df058780d6748788b0c3d0753bbf9ec63c9f64d15c3e34d30d93) center center; */
+        /* background: linear-gradient(rgba(2,2,2,.1),rgba(0,0,0,.1)),url(https://drive.cloudbot.com.br/fly/profile-tiohemer-straightlook.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=conector%2F20220526%2F%2Fs3%2Faws4_request&X-Amz-Date=20220526T022134Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=c42915392d115ddf2f1dc4ae3a784991de0081c2680b5c537b2e3d9e6faa5857) center center; */
+    
+    }
+    .card {
+      background-color: theme('colors.white');
+      border-radius: theme('borderRadius.lg');
+      padding: theme('spacing.6');
+      box-shadow: theme('boxShadow.xl');
+    }
+    /* ... */
+  }
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,700;1,200;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Tangerine:ital,wght@0,200;0,700;1,200;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Pacifico:ital,wght@0,200;0,700;1,200;1,700&display=swap');
+
+body
+{
+    font-family: 'Montserrat', 'Tangerine', sans-serif;
+    background-color: white;
+}
+
