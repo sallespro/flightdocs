@@ -5,7 +5,7 @@ const { theme } = resolveConfig(tailwindConfig)
 const path = require(`path`)
 
 module.exports = {
-  pathPrefix: "/pilot",
+  pathPrefix: "/flightdocs",
   siteMetadata: {
     title: "Flight Docs",
     author: "Rafael Rocco Salles",
