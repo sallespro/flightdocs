@@ -8,9 +8,13 @@ import Layout from "../components/Layout"
 export default () => {
   
   const playlist = [
-    { title: "1", videoSourceURL: "https://www.youtube.com/embed/Mj_XXjZy4DQ", name: 'Ka\'a Potyra 1', description: 'Designed by Good Goods, Inc.' },
-    { title: "2", videoSourceURL: "https://www.youtube.com/embed/Wsb_c7RhM_c", name: 'Ka\'a Potyra 2', description: 'Solid walnut base with rare earth magnets and powder coated steel card cover' },
-    { title: "3", videoSourceURL: "https://www.youtube.com/embed/xsNqINonLtQ", name: 'Lift da Brava', description: '6.25" x 3.55" x 1.15"' },
+    { title: "1", videoSourceURL: "https://www.youtube.com/embed/Mj_XXjZy4DQ", name: 'Ka\'a Potyra - 1', description: 'Designed by Good Goods, Inc.' },
+    { title: "2", videoSourceURL: "https://www.youtube.com/embed/Wsb_c7RhM_c", name: 'Ka\'a Potyra - 2', description: 'Solid walnut base with rare earth magnets and powder coated steel card cover' },
+    { title: "3", videoSourceURL: "https://www.youtube.com/embed/xsNqINonLtQ", name: 'Lift da Brava - 3', description: '6.25" x 3.55" x 1.15"' },
+    { title: "4", videoSourceURL: "https://www.youtube.com/embed/6xPymUx3oHw", name: 'Caputira Blues - 4', description: '6.25" x 3.55" x 1.15"' },
+    { title: "5", videoSourceURL: "https://www.youtube.com/embed/KXRvTo7nlNI", name: 'Caputira Volare - 5', description: '6.25" x 3.55" x 1.15"' },
+    { title: "6", videoSourceURL: "https://www.youtube.com/embed/VPZSjeNeHhU", name: 'Caputira Hiphop - 6', description: '6.25" x 3.55" x 1.15"' },
+    
   ]
 
   return (

@@ -16,7 +16,7 @@ The [github.io](https://sallespro.github.io/flightdocs/) site
 
 ### The CodeSandbox
 
-[CodeSandbox](https://codesandbox.io/s/caputira-dev-zveyd0)
+[CodeSandbox](https://codesandbox.io/s/cool-grass-17c2kk)
 
 ### The Development Environment in the cloud
 
